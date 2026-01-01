@@ -23,14 +23,6 @@ I'm a passionate **Python and Backend Developer** specializing in building robus
 
 ---
 
-## 🎮 Hobbies & Interests
-
-- Watching anime, movies, TV shows (any recommendations? 👀)
-- Playing video games (Football manager lover here.)
-- Watching football (big fan)
-  
----
-
 ## 📫 Let's Connect!
 
 - 💼 [View my GitHub projects](https://github.com/fore-site)
@@ -38,4 +30,4 @@ I'm a passionate **Python and Backend Developer** specializing in building robus
 
 ---
 
-_Always happy to chat about code, anime, or football!_
+_Always happy to chat about code_
