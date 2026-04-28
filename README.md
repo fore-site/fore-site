@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Oluwaseun!
-**Building with python and everything**
+Backend-focused developer building with python and everything .
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
-![HTMX](https://img.shields.io/badge/HTMX-3366CC?logo=htmx&logoColor=white&style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
 
 ---
