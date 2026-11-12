@@ -48,8 +48,8 @@ Open to backend and AI engineering roles.
 ### [Tiber](https://github.com/fore-site/tiber)
 **Intelligent notification delivery** (in development)
 
-- Decides when a message goes out, how urgent it is and what it says.
-- Event-driven on RabbitMQ: retries, dead-lettering, idempotent processing, provider failover.
+- Decides when a message goes out, how urgent it is, and adjusts to recipient preferences.
+- Async communication with RabbitMQ: retries, dead-lettering, idempotent processing, provider failover.
 - Synthetic data simulator for testing decisions on realistic engagement data.
 
 </td>
