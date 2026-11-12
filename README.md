@@ -92,4 +92,3 @@ Open to backend and AI engineering roles.
 
 **Infrastructure** &nbsp; ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white) ![k6](https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=white)
 
-**Learning now:** scikit-learn and PyTorch, starting with Tiber's scoring models.
